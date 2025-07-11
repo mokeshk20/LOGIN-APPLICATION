@@ -1,0 +1,7 @@
+Flask==2.3.2
+pymongo==4.6.2
+python-dotenv==1.0.1
+Flask-Migrate==4.0.7
+Werkzeug==2.3.7
+boto3==1.34.56
+logging==0.4.9.6
